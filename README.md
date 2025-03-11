@@ -100,6 +100,10 @@ Enter option << 3
 - Add additional queue operations (peek, clear, etc.)
 - Improve error handling
 
+## License
+
+[MIT License](LICENSE)
+
 ## Contribution
 
 Contributions, bug reports, and feature requests are welcome!
